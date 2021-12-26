@@ -1,4 +1,4 @@
-Sat Dec 25 20:53:06 2021
+Sat Dec 25 21:12:20 2021
 Windows-10-10.0.19041
 Ren'Py 7.4.11.2266
  
@@ -7,11 +7,11 @@ Bootstrap to the start of init.init took 0.11s
 Early init took 0.00s
 Loader init took 0.03s
 Loading error handling took 0.02s
-Loading script took 0.24s
-Loading save slot metadata. took 0.02s
+Loading script took 0.20s
+Loading save slot metadata. took 0.01s
 Loading persistent took 0.00s
 Importing _renpysteam: ImportError('No module named _renpysteam',)
-Running init code took 0.08s
+Running init code took 0.07s
 Loading analysis data took 0.02s
 Analyze and compile ATL took 0.00s
 Index archives took 0.00s
@@ -35,7 +35,7 @@ Save pyanalysis. took 0.00s
 Save bytecode. took 0.03s
 Running _start took 0.00s
 Performance test:
-Interface start took 0.19s
+Interface start took 0.16s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1920, 1080)
